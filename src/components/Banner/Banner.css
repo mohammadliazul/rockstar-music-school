@@ -1,0 +1,13 @@
+.banner{
+    background-image: url('../../images/guitar-banner.jpg');
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.margin{
+    margin-top: 150px;
+}
+.font{
+    color: rgb(34, 31, 30);
+    font-size: 400%;
+    margin-left: 20px;
+}

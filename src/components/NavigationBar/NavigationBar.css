@@ -1,0 +1,23 @@
+.logo-size{
+    height: 50px;
+}
+.navLink{
+    margin-left: 3rem;
+    text-decoration: none;
+    color: lightgrey;
+}
+.navLink:hover{
+    color: lightgrey;
+    text-underline-offset: 5px;
+    text-decoration: underline;
+    text-decoration-color: rgb(218, 95, 95);
+}
+.navLink:focus{
+    text-underline-offset: 5px;
+    text-decoration: underline;
+    text-decoration-color: rgb(218, 95, 95);
+}
+.btn{
+    background-color: rgb(200, 45, 45);
+    color: white;
+}

@@ -1,0 +1,10 @@
+.hover-color:hover{
+    color: rgb(228, 77, 77);
+}
+.bg-color{
+    background-color: rgb(245, 246, 250);
+}
+.class-image{
+    height: 100px;
+    width: auto;
+}

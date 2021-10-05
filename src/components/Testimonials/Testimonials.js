@@ -1,14 +1,14 @@
 import User1 from '../../images/user-1.png';
 import User2 from '../../images/user-2.png';
 import User3 from '../../images/user-3.png';
-import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
+import React from 'react';
 import './Testimonials.css';
 
 const Testimonials = () => {
     return (
         <div>
-            <h1 className='text-center my-5'>Testimonials</h1>
+            <h1 className='text-center my-5 animate__slideInLeft'>Testimonials</h1>
             <div>
                 <Container>
                     <Row md={3}>

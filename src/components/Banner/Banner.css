@@ -4,6 +4,18 @@
     height: 500px;
     background-size: cover;
 }
+.banner2{
+    background-image: url('../../images/guitar-banner-2.jpg');
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+}
+.banner3{
+    background-image: url('../../images/guitar-banner-3.jpg');
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+}
 .margin{
     margin-top: 110px;
 }

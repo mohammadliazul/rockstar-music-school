@@ -1,5 +1,6 @@
+
 .footer{
-    height: 500px;
+    height: 600px;
     background-color: #262626;
 }
 .navLink{
@@ -21,3 +22,15 @@
 .logo-size{
     height: 50px;
 }
+.teacher-image{
+    height: 100px;
+    width: auto;
+}
+.hv{
+    color: gray;
+    font-size: 2rem;
+}
+.hv:hover{
+    color: rgb(218, 95, 95);
+}
+
